@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.shushimurcia" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Sushi Murcia</name>
+    <description>
+        Restaurantes de sushi en el centro de la ciudad de Murcia.
+    </description>
+    <author email="holacarmenperez@gmail.com">
+        Carmen Pérez
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

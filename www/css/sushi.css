@@ -1,0 +1,26 @@
+body {
+	margin: 0px;
+	padding: 20px 0;
+	font-size: 18px;
+	font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans serif;
+	font-weight: 300;
+}
+
+.header {
+	padding: 0 10px;
+	color: #666;
+	background-color: #FFFFFF;
+	text-align: center;
+	height: 48.4px;
+	line-height: 48.4px;
+}
+
+
+#map {
+	margin: 20px 0;
+	height: 500px;
+}
+
+.leaflet-control-container, .leaflet-routing-container-hide {
+    display: none;
+}
